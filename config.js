@@ -11,5 +11,5 @@ window.CHAKRAWYUHA_CONFIG = {
 
   // VIDEO OPTION 1: YouTube link (e.g. https://www.youtube.com/watch?v=VIDEO_ID)
   // VIDEO OPTION 2: Local MP4 file (e.g. assets/teaser.mp4)
-  videoUrl: "",
+  videoUrl: "chaks2k26 (1).mp4",
 };
