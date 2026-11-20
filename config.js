@@ -7,7 +7,7 @@ window.CHAKRAWYUHA_CONFIG = {
 
   // Put your PDF in assets/brochure.pdf and keep this path,
   // OR paste a public HTTPS URL to your PDF:
-  brochureUrl: "",
+  brochureUrl: "FLYER 26_27 (1).png",
 
   // VIDEO OPTION 1: YouTube link (e.g. https://www.youtube.com/watch?v=VIDEO_ID)
   // VIDEO OPTION 2: Local MP4 file (e.g. assets/teaser.mp4)
